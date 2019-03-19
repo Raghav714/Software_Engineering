@@ -1,5 +1,5 @@
 #reading the file 
-f= open("gaurav.c")
+f= open("sum.c")
 lines = f.read()
 #list contain the symbol which represent the end of line
 lis = ["h> ","()","{","}",";","if","else"]
